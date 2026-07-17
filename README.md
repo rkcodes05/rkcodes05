@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E3A8A,100:0EA5E9&text=Rushikesh%20Patil&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=50&desc=AI%20%26%20Data%20Science%20Engineer%20%E2%80%A2%20Cloud%20%26%20DevOps%20in%20Progress&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E3A8A,100:0EA5E9&text=Rushikesh%20Patil&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=50&desc=AI%20and%20Data%20Science%20Engineer%20%E2%80%A2%20Cloud%20and%20DevOps%20in%20Progress&descAlignY=58&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -8,10 +8,10 @@
 
 <br/><br/>
 
-<a href="mailto:imrk02@icloud.com">
+<a href="mailto:youremail@example.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-<a href="www.linkedin.com/in/rushikeshpatil23">
+<a href="https://linkedin.com/in/your-linkedin">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/rkcodes05">
