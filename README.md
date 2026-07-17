@@ -8,10 +8,10 @@
 
 <br/><br/>
 
-<a href="mailto:youremail@example.com">
+<a href="mailto:imrk02@icloud.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="www.linkedin.com/in/rushikeshpatil23">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/rkcodes05">
